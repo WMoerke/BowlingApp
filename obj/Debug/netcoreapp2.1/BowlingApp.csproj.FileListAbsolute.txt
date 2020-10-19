@@ -1,0 +1,11 @@
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\bin\Debug\netcoreapp2.1\BowlingApp.deps.json
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\bin\Debug\netcoreapp2.1\BowlingApp.runtimeconfig.json
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\bin\Debug\netcoreapp2.1\BowlingApp.runtimeconfig.dev.json
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\bin\Debug\netcoreapp2.1\BowlingApp.dll
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\bin\Debug\netcoreapp2.1\BowlingApp.pdb
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\obj\Debug\netcoreapp2.1\BowlingApp.csprojAssemblyReference.cache
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\obj\Debug\netcoreapp2.1\BowlingApp.csproj.CoreCompileInputs.cache
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\obj\Debug\netcoreapp2.1\BowlingApp.AssemblyInfoInputs.cache
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\obj\Debug\netcoreapp2.1\BowlingApp.AssemblyInfo.cs
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\obj\Debug\netcoreapp2.1\BowlingApp.dll
+C:\Users\Wade\source\repos\BowlingApp\BowlingApp\obj\Debug\netcoreapp2.1\BowlingApp.pdb
